@@ -1,7 +1,8 @@
 # Preeclampsia
 This is medical based project.
-Pre-eclampsia is an abnormality Observed in 5% of pregnant women.
+Pre-eclampsia is an abnormality Observed in 15% of pregnant women.
 When diagnosed, it can turn out to be fatal.
+Other symptoms include - prematured deliveries.
 The research began a few months ago.
 The first process is collecting data.
 The collection of 100+ real world samples is completed.
@@ -17,3 +18,6 @@ It enables us saving life of more than one living being at one time.
 
 
 Analysis Results:-
+------------------
+1. More prone to high blood pressure i.e. above 140/90.
+2. 
