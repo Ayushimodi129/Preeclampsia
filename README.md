@@ -11,3 +11,9 @@ BUt its too late to cure it by that time.
 Hence, our aim to find resonable symptoms in first 3-4 months.
 This helps us to provide us with feasible solution before turning to fatal situations.
 It enables us saving life of more than one living being at one time.
+
+
+
+
+
+Analysis Results:-
