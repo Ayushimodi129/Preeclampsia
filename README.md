@@ -20,4 +20,7 @@ It enables us saving life of more than one living being at one time.
 Analysis Results:-
 ------------------
 1. More prone to high blood pressure i.e. above 140/90.
-2. 
+2. High level of proteins can favour pre-eclampsia.
+3. Inheritance of pre-eclampsia.
+4. Kidney diseases and diabetes promote pre-eclampsia.
+5. Obesity is also influential.
